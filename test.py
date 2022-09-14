@@ -1,1 +1,1 @@
-print(error)
+print("hello world")
