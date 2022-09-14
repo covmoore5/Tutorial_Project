@@ -13,3 +13,4 @@ Repository to learn the basics of git and GitHub that go along with a tutorial v
   - git commit -m
   - git push
   - make a pull request
+ changes
